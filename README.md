@@ -1,7 +1,6 @@
 # GA3_OMNet5_2_inet3_6_2
 An implementation of GA3 in OMNeT++
 
-This program is not complete and requires several conditions
 
 Main paper:
   Rojas, Elisa, et al. "GA3: scalable, distributed address assignment
